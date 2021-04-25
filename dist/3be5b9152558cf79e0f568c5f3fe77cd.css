@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 20px;
+}
+
+#modalWindow {
+  width: 40%;
+  min-height: 70vh;
+  background-color: #F0F8FF;
+  border: 1px solid #F0F8FF;
+}
